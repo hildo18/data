@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="3" skipped="0" failures="0" errors="0" time="0.932487" timestamp="2021-05-23T23:42:09-03:00" hostname="DESKTOP-BSG1A4V">
+<properties>
+<property name="seed" value="64640"/>
+</properties>
+<testcase classname="spec.get_consulta_spec" name="GET /consulta consulta cep 01046010 valida status code" file="./spec/get_consulta_spec.rb" time="0.007934"></testcase>
+<testcase classname="spec.get_consulta_spec" name="GET /consulta consulta cep 01046010 consulta cep 60710001 valida status code" file="./spec/get_consulta_spec.rb" time="0.000344"></testcase>
+<testcase classname="spec.get_consulta_spec" name="GET /consulta consulta cep 01046010 consulta cep 60710001 consulta cep 60831665 valida status code" file="./spec/get_consulta_spec.rb" time="0.000323"></testcase>
+</testsuite>
